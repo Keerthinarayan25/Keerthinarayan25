@@ -7,14 +7,15 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **keerthinarayan@gmail.com**
+- 📫 How to reach me **keerthinarayan10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/keerthinarayan0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="keerthinarayan0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/keerthi-narayan-85071925b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/keerthi-narayan-85071925b" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/keerthinarayan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/keerthinarayan/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@keerthinarayan82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@keerthinarayan82" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/keerthi-narayan-85071925b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keerthi-narayan-85071925b" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/keerthinarayan82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="keerthinarayan82" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/keerthinarayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="keerthinarayan" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/keerthi_narayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="keerthi_narayan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
