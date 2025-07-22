@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm KEERTHI NARAYAN</h1>
-<h3 align="center">A passionate FULL STACK developer from India</h3>
+<h3 align="center">A passionate FULL STACK developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthinarayan25&label=Profile%20views&color=0e75b6&style=flat" alt="keerthinarayan25" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Development**
-
-- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **keerthinarayan10@gmail.com**
 
